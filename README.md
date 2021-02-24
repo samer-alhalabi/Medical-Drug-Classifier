@@ -6,3 +6,7 @@ This project will show how to build a model to find out which drug might be appr
 
 It is a sample of multiclass classifier, and you can use the training part of the dataset to build a decision tree, and then use it to predict the class of a unknown patient, or to prescribe it to a new patient.
 
+### Results using Decision Trees Model
+
+![image](images/decision_tree.png)
+

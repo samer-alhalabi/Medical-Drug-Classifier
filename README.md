@@ -4,7 +4,7 @@ Imagine that you are a medical researcher compiling data for a study. You have c
 
 This project will show how to build a model to find out which drug might be appropriate for a future patient with the same illness. The feature sets of this dataset are Age, Sex, Blood Pressure, and Cholesterol of patients, and the target is the drug that each patient responded to.
 
-It is a sample of multiclass classifier, and you can use the training part of the dataset to build a decision tree, and then use it to predict the class of a unknown patient, or to prescribe it to a new patient.
+It is a sample of multiclass classifier, and I will be using the training part of the dataset to build a decision tree, and then use it to predict the class of a unknown patient, or to prescribe it to a new patient.
 
 ### Results using Decision Trees Model
 
